@@ -4,11 +4,14 @@ This is a ynu web-final-homework of group 7.
 
 - [Security](#security)
 - [Background](#background)
+- [Language](#Language)
+- [History](#history)
 - [Install](#install)
 - [Usage](#usage)
 - [API](#api)
 - [Contributing](#contributing)
 - [License](#license)
+- [Credits](#credits)
 
 ## Security
 
@@ -17,6 +20,10 @@ This is a ynu web-final-homework of group 7.
 ## Background
 
 ### Any optional sections
+
+## Language
+
+## History
 
 ## Install
 
@@ -52,4 +59,10 @@ Small note: If editing the Readme, please conform to the [standard-readme](https
 
 ### Any optional sections
 ## License
-[MIT © Richard McRichface.](../LICENSE)
+We’re using the … license because we believe in …
+
+## Credits
+
+* [xkingdom](...)
+* [Syouko](https://github.com/1615477241)
+* [Billj](...)
